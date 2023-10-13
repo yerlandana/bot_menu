@@ -2,4 +2,4 @@
 Бот с кнопочным меню
 
 
-<img src='http://i.imgur.com/WRRTxTIh.gif'/>
+<img src='http://i.imgur.com/WRRTxTIh.gif' />
