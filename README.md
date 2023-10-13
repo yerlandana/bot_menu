@@ -2,4 +2,4 @@
 Бот с кнопочным меню
 
 
-![](video_2023-10-13_18-46-53.mp4)
+<img src='https://imgur.com/a/CxsL3uU.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
